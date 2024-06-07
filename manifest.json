@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "name": "salvador de links",
+    "description": "organizador de links",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "link.png"
+    },
+    "permissions": [ "tabs"
+    ]   
+}
